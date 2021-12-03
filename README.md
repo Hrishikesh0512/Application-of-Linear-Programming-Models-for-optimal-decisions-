@@ -10,7 +10,7 @@ Applied linear programming model for the analysis of various case studies
 * According to the recipes for the new cheese, there must be at least 45 litres of Cow milk and at least 50 litres of Goat milk per 1000 kg of cheese, but no more than 60 litres     of Sheep milk per 1000 kg of cheese.
   A minimum of 60 kg of cheese must be produced per week by the plant.
   
- #Solution
+ # Solution
  
 #Why Linear Programming om this perticular case?
 Linear programming is one of the most used way used for cost optimization, It is very efficient in 
