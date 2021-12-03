@@ -67,7 +67,6 @@ where P 1 and P 2 are the cellphone pricing for Company 1 and Company 2, respect
   <img src='https://github.com/Hrishikesh0512/Images/blob/main/14.png'> 
       
   * If the cost C = 30, would the Nash equilibrium change?
-  * 
 Saddle point is nothing but a stationary point which is not a local extreme, It is based on the 
 minimum value of the rows and maximum value of the column
 From the table we can derive that the min-max point is 0 for the above zero-sum game
