@@ -37,12 +37,12 @@ The following are the maximum demand (in tonnes) for each product, as well as th
      
      
    
-*Formulated an LP model for the factory that maximises the profit, while satisfying the demand and the cotton and wool proportion constraints
+* Formulated an LP model for the factory that maximises the profit, while satisfying the demand and the cotton and wool proportion constraints
  
-*R/R Studio was used to solve the model. Determine the best profit and the best values for the choice factors.
+* R/R Studio was used to solve the model. Determine the best profit and the best values for the choice factors.
  <img src='https://github.com/Hrishikesh0512/Images/blob/main/13.png'>  
  
-*The Optimal Cost derived was $189050
+* The Optimal Cost derived was $189050
      
      
 
