@@ -28,7 +28,7 @@ Linear programming can be used efficiently
 
 The Minimized cost found was 5.90$/kg So total minimum cost required to produced 60Kg Cheese would be 5.90X60 = 354$
 
-#Case Study 2
+# Case Study 2
 Spring, Autumn, and Winter are three products made by a firm using three materials: Cotton, Wool, and Silk. The following table shows the product and material sales price, production cost, and purchasing cost per tonne, accordingly.
 <img src='https://github.com/Hrishikesh0512/Images/blob/main/10.png'>
 
