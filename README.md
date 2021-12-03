@@ -20,7 +20,7 @@ Linear programming can be used efficiently
 
  * Formulated a Linear Programming (LP) model for the factory that minimises the total cost of producing the cheese while satisfying all constraints
 
- #The Fesible Region
+ # The Fesible Region
   <img src='https://github.com/Hrishikesh0512/Images/blob/main/8.png'>
   
 #Finding of Optimal Cost using Excel Solver
