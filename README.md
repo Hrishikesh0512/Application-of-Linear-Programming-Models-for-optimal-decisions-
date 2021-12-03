@@ -23,7 +23,7 @@ Linear programming can be used efficiently
  # The Fesible Region
   <img src='https://github.com/Hrishikesh0512/Images/blob/main/8.png'>
   
-#Finding of Optimal Cost using Excel Solver
+# Finding of Optimal Cost using Excel Solver
 <img src='https://github.com/Hrishikesh0512/Images/blob/main/9.png'>
 
 The Minimized cost found was 5.90$/kg So total minimum cost required to produced 60Kg Cheese would be 5.90X60 = 354$
