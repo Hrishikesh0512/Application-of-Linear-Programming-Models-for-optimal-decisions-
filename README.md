@@ -58,7 +58,8 @@ where P 1 and P 2 are the cellphone pricing for Company 1 and Company 2, respect
 
 # Creation of R Program to find
 * Compute the profits of each company under all sale price combinations and produce the payoff matrix for each company
-  The payout matrix for each firm is created by multiplying the profits of each company by all possible sale price combinations.
+ 
+ The payout matrix for each firm is created by multiplying the profits of each company by all possible sale price combinations.
      Zero sum game is nothing but a game, where only one of the player can win,here when one player 
      wins, other loses. In the given example there are the two players are company 1 & company 
    
@@ -66,6 +67,7 @@ where P 1 and P 2 are the cellphone pricing for Company 1 and Company 2, respect
   <img src='https://github.com/Hrishikesh0512/Images/blob/main/14.png'> 
       
   * If the cost C = 30, would the Nash equilibrium change?
+  * 
 Saddle point is nothing but a stationary point which is not a local extreme, It is based on the 
 minimum value of the rows and maximum value of the column
 From the table we can derive that the min-max point is 0 for the above zero-sum game
